@@ -15,13 +15,12 @@ const defaultTeamMembers = [
     { id: 1, name: "تامر عماد", role: "", section: "networking", image: "network", bio: "خبير في أمن الشبكات وبروتوكولات الاتصال" },
     { id: 2, name: "المكتفي بالله قرشي", role: "", section: "networking", image: "network", bio: "متخصصص في تكوين وإدارة الشبكات المحلية" },
     { id: 3, name: "عبدالصادق الأمين ", role: "", section: "networking", image: "network", bio: "خبير في مجال البنية التحتية للشبكات" },
-    { id: 4, name: "محمد صديق محمد ", role: "", section: "software", image: "code", bio: "مطور تطبيقات ويب، مهتم بتقنيات Full Stack" },
+    { id: 4, name: "خالد عز الدين ", role: "", section: "software", image: "code", bio: "مطور تطبيقات ويب، مهتم بتقنيات Full Stack" },
     { id: 5, name: "أحمد ياسر أحمد", role: "", section: "software", image: "code", bio: "خبير في تطوير التطبيقات بلغة Python وJavaScript" },
     { id: 6, name: "عمر محمد احمد", role: "", section: "software", image: "code", bio: "مختصص في تطوير واجهات المستخدم التفاعلية" },
     { id: 7, name: "عبدالله أسامة عبدالله", role: "", section: "hardware", image: "microchip", bio: "مهندس عتاد، خبير في معالجات الحاسوب" },
-    { id: 8, name: "خالد عزالدين ", role: "", section: "hardware", image: "microchip", bio: "متخصصص في تجميع وصيانة الحواسيب" },
-    { id: 9, name: "محمدالأمين صديق ", role: "", section: "hardware", image: "microchip", bio: "خبرة في التعرف على مكونات الحاسوب الداخلية" },
-    { id: 11, name: "سعود عبدالله", role: "مقدم فقرات", section: "cultural", image: "music", bio: "مقدم برامج، يدير الفقرات الثقافية" },
+    { id: 8, name: " الفاتح علي   ", role: "", section: "hardware", image: "microchip", bio: "متخصصص في تجميع وصيانة الحواسيب" },
+     
 
 ];
 
@@ -31,7 +30,7 @@ const defaultOrganizers = [
     { id: 2, name: "أ. أحمد ميرف", position: "نائب رئيس اللجنة", image: "user-graduate", bio: "نائب منسق تقانة المعلومات" },
     { id: 3, name: "مدثر الريح ", position: "عضو لجنة التنظيم", image: "user-tie", bio: "منسق الأنشطة الثقافية" },
     { id: 4, name: "زينب نصر الدين", position: "عضو لجنة التنظيم", image: "user-graduate", bio: "مسؤولة عن التظيم " },
-    { id: 5, name: "الفاتح", position: "عضو لجنة التنظيم", image: "user-tie", bio: "الإشراف على الإعلام" }
+    { id: 5, name: "الفاتح علي ", position: "عضو لجنة التنظيم", image: "user-tie", bio: "الإشراف على الإعلام" }
 ];
 
 // 🔐 كلمة المرور السرية للمسؤول
